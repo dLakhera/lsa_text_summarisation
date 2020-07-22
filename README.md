@@ -5,3 +5,7 @@ import nltk
 nltk.download("punkt",quiet = True)
 nltk.download("stopwords",quiet = True)
 ```
+Then to review the code run in terminal
+```
+python3 summarization.py
+```
